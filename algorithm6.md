@@ -50,3 +50,8 @@
 		System.out.println("입력한 음계 = "+scale.toString());
 		System.out.println("결과 = "+ result);
 	}//main
+
+
+
+입력한 음계 = [2, 1, 3, 4, 5, 6, 7, 8]
+결과 = Mixed!
